@@ -1,0 +1,46 @@
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+}
+
+.section {
+    color: black;
+    text-align: center;
+}
+
+.left {
+    width: 230px;
+    height: 190px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+.right {
+    width: 230px;
+    height: 190px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+.orap-turgan {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.wrapper2 {
+    align-items: end;
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+}
